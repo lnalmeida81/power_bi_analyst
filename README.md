@@ -5,3 +5,9 @@ Neste projeto, reproduzi duas páginas já criadas durante o curso e criei a ter
 ## Projeto 2
 ### Criando Um Relatório Gerencial de Vendas com Power BI
 Neste projeto, criei um relatório no Power BI Desktop com base na Sample Financial disponibilizada pela Microsoft.
+
+## Projeto 5
+### Criando um Dashboard Gerencial para Tomada de Decisões Com Power BI
+
+## Projeto 6
+### Criando um Relatório Vendas e Lucros com Data Analytics com Power BI
