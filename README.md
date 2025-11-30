@@ -17,3 +17,6 @@ Neste projeto, criei um relatório no Power BI Desktop com base na Sample Financ
 
 ## Projeto 6
 ### Criando um Relatório de Vendas e Lucros com Data Analytics com Power BI
+
+## Projeto 7
+### Criando Relatórios Dinâmicos com o uso de Parâmetros no Power BI
